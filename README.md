@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Quan Khuong
 # 💫 About Me:
 I'm currently a second-year Software Engineering student at Conestoga College.  I have an intense love for programming and a strong background in web-based, embedded, and object-oriented programming. I am actively seeking a co-op role for the summer of 2024 to put my technical expertise to use and work on interesting projects.<br>
-🌱 I’m currently learning Angular<br> Cybersecurity, which uses tools on Kali Linux like Nmap, Spiderfoot<br><br>
+🌱 I’m currently learning:<br> - Angular<br> - Cybersecurity, which uses tools on Kali Linux like Nmap, Spiderfoot<br><br>
 
 
 ## 🌐 Socials:
