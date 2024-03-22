@@ -15,8 +15,7 @@ I'm currently a second-year Software Engineering student at Conestoga College.  
 
 ---
 [![](https://visitcount.itsvg.in/api?id=minhquan38&icon=0&color=0)](https://visitcount.itsvg.in)
-### 😂 Random Dev Meme
-<img src='https://file.forms.app/sitefile/55+Hilarious-developer-memes-that-will-leave-you-in-splits-10.png' style="height: 400px;"/>
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
